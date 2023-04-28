@@ -32,7 +32,7 @@ load = "Text2Box_cuda:0,Segmenting_cuda:0,
 
 参考文档：
 [TaskMatrix](https://github.com/microsoft/TaskMatrix)
-[listen data blog](https://www.listendata.com/2023/03/complete-guide-to-visual-chatgpt.html#id-d832be)
+[listen_data_blog](https://www.listendata.com/2023/03/complete-guide-to-visual-chatgpt.html#id-d832be)
 
 ## 2.Unsplash让ChatGPT生成图片
 这部分利用[Unsplash](https://unsplash.com/documentation)模块，通过输入以下prompt后能让ChatGPT在聊天框中输出图片或图片链接:
