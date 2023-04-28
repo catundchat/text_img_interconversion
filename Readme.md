@@ -41,3 +41,5 @@ load = "Text2Box_cuda:0,Segmenting_cuda:0,
 ```
 效果如下：
 ![Example Image](example3.JPG)
+参考文档：
+[如何让chatgpt给我们发送或生成图片](https://zhuanlan.zhihu.com/p/607465592)
