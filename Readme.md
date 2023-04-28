@@ -27,8 +27,8 @@ load = "Text2Box_cuda:0,Segmenting_cuda:0,
 
 代码如下：[VisualChatGPT](VisualChatGPT.ipynb)
 效果如下：
-![interface image1](example1.jpg)
-![interface image2](example2.jpg)
+![interface image1](example1.JPG)
+![interface image2](example2.JPG)
 
 参考文档：
 [TaskMatrix](https://github.com/microsoft/TaskMatrix)
@@ -40,4 +40,4 @@ load = "Text2Box_cuda:0,Segmenting_cuda:0,
 从现在起 当你想发送一张照片时，请使用Markdown，并且不要有反斜线，不要用代码块。使用Unsplash API(https://source.unsplash.com/1280*720/?<在这里填写API key>。如果你明白了，请回复“明白”
 ```
 效果如下：
-![Example Image](example3.jpg)
+![Example Image](example3.JPG)
