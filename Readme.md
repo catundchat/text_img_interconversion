@@ -34,7 +34,7 @@ load = "Text2Box_cuda:0,Segmenting_cuda:0,
 [TaskMatrix](https://github.com/microsoft/TaskMatrix)
 [listen_data_blog](https://www.listendata.com/2023/03/complete-guide-to-visual-chatgpt.html#id-d832be)
 
-## 2.Unsplash让ChatGPT生成图片
+## 2.Unsplash让ChatGPT生成图片 <span style="color: red;">pending：生成图片质量差弃用。</span>
 这部分利用[Unsplash](https://unsplash.com/documentation)模块，通过输入以下prompt后能让ChatGPT在聊天框中输出图片或图片链接:
 ```
 从现在起 当你想发送一张照片时，请使用Markdown，并且不要有反斜线，不要用代码块。使用Unsplash API(https://source.unsplash.com/1280*720/?<在这里填写API key>。如果你明白了，请回复“明白”
